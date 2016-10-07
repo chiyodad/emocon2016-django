@@ -1,0 +1,8 @@
+<h1> 이모콘 블로그 </h1>
+<ul>
+{% for post in post_list %}
+  <a href="/blog/post/{{ post.slug }}" >
+    <li> {{ post.title }} / {{ post.modify_date }} </li>
+  </a>
+{% endfor %}
+</ul>
