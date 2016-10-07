@@ -6,7 +6,7 @@
 [Django](www.djangoproject.com) 로 만든 블로그를 [Heroku](www.hreoku.com)에 올려 서비스 해볼 수 있습니다.
 
 # Tutorial
-이모콘 발표용 (Keynote)[https://github.com/chiyodad/emocon2016-django/blob/master/emocon_django_43.key.zip] 를 참고해주세요.
+[이모콘 발표용 Keynote](https://github.com/chiyodad/emocon2016-django/blob/master/emocon_django_43.key.zip)를 참고해주세요.
 단, 모든 내용은 `macOS`가 기준입니다.
 
 # 아래 내용은 heroku template 을 통해 django 프로젝트를 시작하는 방법입니다.
